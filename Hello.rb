@@ -13,4 +13,7 @@ class Features
   
   def Updatefeature
   end
+  
+  def feature6
+  end
 end
