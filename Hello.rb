@@ -10,4 +10,7 @@ class Features
   
   def feature4
   end
+  
+  def Updatefeature
+  end
 end
