@@ -7,4 +7,7 @@ class Features
   
   def feature3
   end
+  
+  def feature4
+  end
 end
